@@ -23,3 +23,7 @@ Tehcnologies: JavaScript, React, HTML & CSS, GitHub, and codesandbox.io
 - Start time: 9:00am
 - Finish time: 10:00am
 - Actual time needed to complete: 1 hour
+
+## Credits and Collaborations
+
+- Lab 11: Padmapriya Ganapathi
