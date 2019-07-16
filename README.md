@@ -6,11 +6,7 @@
 
 ## Overview
 
-This application
-
-## Getting Started
-
-Git clone and npm install for the application dependencies.
+This application uses React to build a counter where you can press the "+" to add to the count and "-" to subtract from the count and have it dynamically render on the page.
 
 ## Architecture
 
